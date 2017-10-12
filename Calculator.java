@@ -16,19 +16,4 @@ public class Calculator {
 		return result;
 	}
 
-	private static int minus(int a, int b) {
-		int result = a-b;
-		return result;
-	}
-
-	private static int multi(int a, int b) {
-		int result = a*b;
-		return result;
-	}
-
-	private static float division(int a, int b) {
-		int result = a/b;
-		return result;
-	}
-
-}
+	
